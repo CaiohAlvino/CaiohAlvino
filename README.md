@@ -30,17 +30,17 @@
 </p>
 
 ---
-
+<!--
 ## 🚀 Projetos Fixos
 - [API de WhatsApp](https://github.com/CaiohAlvino/sua-api-whatsapp) – Conexão via EvolutionAPI em Python  
 - [Sistema Web PHP](https://github.com/CaiohAlvino/seu-projeto-php) – Backend em PHP/HTML/CSS/JS na WDevel  
 - [Automação de Deploy](https://github.com/CaiohAlvino/docker-deploy) – Pipelines Docker  
-
+-->
 ---
-
+<!--
 ## 💼 Experiência
 (ADICIONAR)
-
+-->
 ---
 
 ## 📫 Como Me Encontrar
