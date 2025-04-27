@@ -9,9 +9,9 @@
 <!-- 2. Estatísticas Dinâmicas do GitHub -->
 <p align="center">
   <!-- Contribuições e linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" width="45%" />
   <!-- Streak diária -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" width="50%" />
 </p>
 
 <!-- 3. Métricas de Desenvolvimento (Lowlighter Metrics pública) -->
@@ -29,15 +29,15 @@
   </a>
 </p>
 
----
 <!--
+---
 ## 🚀 Projetos Fixos
 - [API de WhatsApp](https://github.com/CaiohAlvino/sua-api-whatsapp) – Conexão via EvolutionAPI em Python  
 - [Sistema Web PHP](https://github.com/CaiohAlvino/seu-projeto-php) – Backend em PHP/HTML/CSS/JS na WDevel  
 - [Automação de Deploy](https://github.com/CaiohAlvino/docker-deploy) – Pipelines Docker  
--->
+
 ---
-<!--
+
 ## 💼 Experiência
 (ADICIONAR)
 -->
