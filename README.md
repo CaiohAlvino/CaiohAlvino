@@ -7,7 +7,7 @@
 </p>
 
 <!-- 2. Estatísticas Dinâmicas do GitHub -->
-<p align="center">
+<p>
   <!-- Contribuições e linguagens -->
   <img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" width="48%" />
   <!-- Streak diária -->
