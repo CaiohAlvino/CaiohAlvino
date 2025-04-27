@@ -46,7 +46,6 @@
 ## 💼 Experiência
 (ADICIONAR)
 -->
----
 
 ## 📫 Como Me Encontrar
 - ✉️ caioh.alvino22@gmail.com  
@@ -56,10 +55,6 @@
 
 ## ⚡ Curiosidade
 Possuo **Diploma de Honra ao Mérito** do Exército Brasileiro 🎖️  
-
----
-
-## 🎨 Widgets Adicionais
 
 <p align="center">
   <!-- Trophies: conquistas do GitHub -->
