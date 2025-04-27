@@ -55,14 +55,14 @@
 
 ## ⚡ Curiosidade
 Possuo **Diploma de Honra ao Mérito** do Exército Brasileiro 🎖️  
-
-<p align="center">
   <!-- Trophies: conquistas do GitHub -->
+<!--
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=CaiohAlvino&theme=onedark" alt="Trophies" />
   </a>
 </p>
-
+-->
 <!-- Contador de visitantes -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CaiohAlvino.CaiohAlvino" alt="Visitor Badge" />
