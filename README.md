@@ -7,7 +7,6 @@
 </p>
 
 <!-- 2. Estatísticas Dinâmicas do GitHub -->
-<p align="center">
   <!-- Contribuições e linguagens -->
   <table>
     <tbody>
@@ -17,11 +16,9 @@
       </tr>
     </tbody>
   </table>
-</p>
-
-<!-- 3. Métricas de Desenvolvimento (Lowlighter Metrics pública) -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/insights/CaiohAlvino?template=classic&base.header=0&theme=dark" alt="Métricas de Desenvolvimento" width="400" />
+  
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaiohAlvino&show_icons=true&theme=tokyonight&layout=compact" alt="CaiohAlvino" />
 </p>
 
 ---
@@ -30,7 +27,7 @@
 <p align="center">
   <!-- Ícones via skillicons.dev -->
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=php,python,aws,docker&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=php,css,html,js,python,java,c,cs,bootstrap,aws,docker,mysql,supabase,postman,wordpress&theme=dark" alt="Skills" />
   </a>
 </p>
 
@@ -48,12 +45,15 @@
 -->
 
 ## 📫 Como Me Encontrar
-- ✉️ caioh.alvino22@gmail.com  
-- 📱 (44) 9 9169-2238  
-- 🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+</div>
 
 ## ⚡ Curiosidade
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiohalvino&label=Profile%20views&color=0e75b6&style=flat" alt="caiohalvino" /> </p>
 Possuo **Diploma de Honra ao Mérito** do Exército Brasileiro 🎖️  
   <!-- Trophies: conquistas do GitHub -->
 <!--
@@ -63,8 +63,11 @@ Possuo **Diploma de Honra ao Mérito** do Exército Brasileiro 🎖️
   </a>
 </p>
 -->
-<!-- Contador de visitantes -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CaiohAlvino.CaiohAlvino" alt="Visitor Badge" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/caiohalvino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caiohalvino" height="30" width="40" /></a>
 </p>
+
+---
 
