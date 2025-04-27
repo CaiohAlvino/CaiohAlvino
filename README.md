@@ -53,7 +53,6 @@
 - 📱 (44) 9 9169-2238  
 - 🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
 
----
 
 ## ⚡ Curiosidade
 Possuo **Diploma de Honra ao Mérito** do Exército Brasileiro 🎖️  
