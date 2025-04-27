@@ -49,11 +49,16 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <a href="">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ## ⚡ Curiosidade
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiohalvino&label=Profile%20views&color=0e75b6&style=flat" alt="caiohalvino" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=caiohalvino&label=Profile%20views&color=0e75b6&style=flat" alt="caiohalvino" /> 
+</p>
+
 Possuo **Diploma de Honra ao Mérito** do Exército Brasileiro 🎖️  
   <!-- Trophies: conquistas do GitHub -->
 <!--
