@@ -20,9 +20,7 @@
 ## 🛠️ Minhas Skills
 <p align="center">
   <!-- Ícones via skillicons.dev -->
-  <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=php,css,html,js,python,java,c,cs,bootstrap,aws,docker,mysql,supabase,postman,wordpress&theme=dark" alt="Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,css,html,js,python,java,c,cs,bootstrap,aws,docker,mysql,supabase,postman,wordpress&theme=dark" alt="Skills" />
 </p>
 
 <!--
@@ -36,22 +34,14 @@
 
 ## 💼 Experiência
 (ADICIONAR)
-
-
+-->
 ## 📫 Como Me Encontrar
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <a href="mailto:caioh.alvino22@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/caioalvino" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/555079399427538954" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/caioalvino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:caioh.alvino22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.instagram.com/caioalvino"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="E-mail"></a>
 </div>
--->
+
 ## ⚡ Curiosidade
 Possuo **Diploma de Honra ao Mérito** do Exército Brasileiro 🎖️  
   <!-- Trophies: conquistas do GitHub -->
