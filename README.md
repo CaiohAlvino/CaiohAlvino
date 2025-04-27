@@ -9,12 +9,14 @@
 <!-- 2. Estatísticas Dinâmicas do GitHub -->
 <p align="center">
   <!-- Contribuições e linguagens -->
-  <tbody>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" /></td>
-    </tr>
-  </tbody>
+  <table>
+    <tbody>
+      <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" /></td>
+        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" /></td>
+      </tr>
+    </tbody>
+  </table>
 </p>
 
 <!-- 3. Métricas de Desenvolvimento (Lowlighter Metrics pública) -->
