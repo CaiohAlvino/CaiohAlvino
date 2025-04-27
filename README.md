@@ -9,9 +9,12 @@
 <!-- 2. Estatísticas Dinâmicas do GitHub -->
 <p align="center">
   <!-- Contribuições e linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" width="49%" />
-  <!-- Streak diária -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" width="50%" />
+  <tbody>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" /></td>
+    </tr>
+  </tbody>
 </p>
 
 <!-- 3. Métricas de Desenvolvimento (Lowlighter Metrics pública) -->
