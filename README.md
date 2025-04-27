@@ -11,7 +11,7 @@
   <!-- Contribuições e linguagens -->
   <img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" width="48%" />
   <!-- Streak diária -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" width="50%" />
 </p>
 
 <!-- 3. Métricas de Desenvolvimento (Lowlighter Metrics pública) -->
