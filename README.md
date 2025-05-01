@@ -1,7 +1,7 @@
 <!-- 1. Cabeçalho e Descrição -->
 <h1 align="center">Caio Alvino 👋</h1>
 <p align="center">
-  <strong>Backend Developer | PHP • Python • AWS S3 • Docker</strong><br>
+  <strong>Backend Developer | PHP • Python • AWS S3 • Docker | 🍙</strong><br>
   Systems Analysis Technologist at UMFG<br>
   Seeking new challenges and opportunities
 </p>
