@@ -11,8 +11,12 @@
   <tbody>
     <tr>
       <!-- Contribuições e linguagens -->
-      <td><img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" /></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=CaiohAlvino&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=CaiohAlvino&theme=tokyonight" alt="GitHub Streak" />
+      </td>
     </tr>
   </tbody>
 </table>
