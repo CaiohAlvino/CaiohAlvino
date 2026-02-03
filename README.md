@@ -50,7 +50,7 @@ Most of my repositories focus on backend services, integrations, and practical a
       </td>
       <td>
         <p align="center">
-          <img src="https://github-readme-streak-stats-eight.vercel.app?user=CaiohAlvino&theme=tokyonight" />
+          <img src="https://streak-stats.demolab.com?user=CaiohAlvino&theme=tokyonight&hide_border=true" />
         </p>
       </td>
     </tr>
