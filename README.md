@@ -22,9 +22,9 @@
 
 ## 👨‍💻 About Me
 
-Backend-focused developer working with **PHP and Python**, experienced in **APIs, integrations, and corporate systems**.
-Hands-on background with **ERP environments (TOTVS, WMS)**, automation, and system documentation.
-Focused on **clarity, stability, and solving real business problems**.
+Backend developer specializing in PHP and Python, with primary focus on APIs, integrations, and enterprise systems.
+
+I work mainly on backend automation and system documentation, while maintaining familiarity with frontend and infrastructure tools when required.
 
 ---
 
@@ -36,32 +36,9 @@ Focused on **clarity, stability, and solving real business problems**.
 
 ---
 
-## 🏢 Professional Experience
-
-### Systems Analyst (Junior) — MUSICAL
-
-**Aug/2025 — Present**
-
-* Implementation of partner systems from **TOTVS** (VarejOnline and AWTP WMS).
-* Planning and execution of **Shopify e-commerce** with system integrations.
-* Stock organization and data standardization for system migration.
-* Data analysis using spreadsheets to support operational decisions.
-* Basic IT technical support.
-
-### Software Development Intern — WDevel
-
-**Nov/2024 — Jul/2025**
-
-* Active participation in the **design and definition of the system’s main features and structure**.
-* Development of new functionalities from concept to implementation.
-* Backend development using **PHP**, with frontend support in **HTML, CSS, and JavaScript**.
-* Design and implementation of a **WhatsApp messaging system** using Python and EvolutionAPI.
-* Creation and consumption of APIs focused on automation and system communication.
-* Technical documentation and ongoing system maintenance support.
-
----
-
 ## 📊 GitHub Activity
+
+Most of my repositories focus on backend services, integrations, and practical automation projects.
 
 <table>
   <tbody>
@@ -85,8 +62,9 @@ Focused on **clarity, stability, and solving real business problems**.
 
 ## 🎓 Education
 
-**Technologist in Systems Analysis and Development**
-UMFG — Jan/2023 to Jul/2025
+**Technologist in Systems Analysis and Development**  
+UMFG — Jan/2023 to Jul/2025  
+Focus on backend development, system modeling, and software engineering fundamentals.
 
 **Postgraduate Studies (In Progress)**
 Software Engineering — Mobile Application Development
@@ -95,10 +73,13 @@ Software Engineering — Mobile Application Development
 
 ## 🏅 Certifications & Achievements
 
-* NASA Space Apps — Global Hackathon Participant
-* Offensive Security Workshop — Practical Security Training
-* Honour for Merit — Brazilian Army
-* Supervised Internship — Final Project with Maximum Grade
+Supervised Internship — Final Project with Maximum Grade
+
+NASA Space Apps — Global Hackathon Participant
+
+Offensive Security Workshop — Practical Security Training
+
+Honour for Merit — Brazilian Army
 
 ---
 
