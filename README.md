@@ -99,8 +99,8 @@ Technology:
 
 `Python` `REST APIs` `Integration Services`
 
-Repository  
-https://github.com/CaiohAlvino/evocore-integration
+Repository:
+[evocore-integration](https://github.com/CaiohAlvino/evocore-integration)
 
 
 ### Inventory Count Automation
@@ -120,8 +120,8 @@ Technology:
 
 `Python` `Automation` `Data Processing`
 
-Repository  
-https://github.com/CaiohAlvino/inventory-count-automation
+Repository:
+[inventory-count-automation](https://github.com/CaiohAlvino/inventory-count-automation)
 
 ---
 
