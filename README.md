@@ -1,15 +1,12 @@
-<!-- ========================= -->
+<!-- ================================================= -->
+<!--                GitHub Profile README              -->
+<!-- ================================================= -->
 
-<!--   GitHub Profile README   -->
-
-<!-- ========================= -->
-
-<h1 align="center">Caio Alvino 👋</h1>
+<h1 align="center">Caio Alvino</h1>
 
 <p align="center">
-  <strong>Backend Developer | Systems Analyst (Junior)</strong><br>
-  PHP • Python • APIs • Docker • AWS • Integrations<br>
-  Systems Analysis Technologist — UMFG
+Backend Developer • Systems Analyst<br>
+Building reliable systems, APIs and integrations
 </p>
 
 <div align="center">
@@ -20,69 +17,172 @@
 
 ---
 
-## 👨‍💻 About Me
+# Who I Am
 
-Backend developer specializing in PHP and Python, with primary focus on APIs, integrations, and enterprise systems.
+I build backend systems designed to **support real business operations**.
 
-I work mainly on backend automation and system documentation, while maintaining familiarity with frontend and infrastructure tools when required.
+My focus is on:
+
+• API development  
+• system integrations  
+• backend automation  
+• service reliability  
+
+I prefer **clean architecture, readable code, and systems that survive production environments.**
 
 ---
 
-## 🧠 Technical Stack
+# Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,java,aws,docker,mysql,linux,windows,markdown,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css,bootstrap,java,aws,docker,mysql,linux,windows,markdown,postman&theme=dark"/>
 </p>
 
+Core technologies I frequently use:
+
+```
+Backend
+  ├─ PHP
+  ├─ Python
+  └─ REST APIs
+
+Infrastructure
+  ├─ Docker
+  ├─ AWS
+  └─ Linux environments
+
+Data
+  └─ MySQL
+
+Development
+  ├─ Git
+  ├─ Postman
+  └─ Markdown documentation
+```
+
 ---
 
-## 📊 GitHub Activity
+# Engineering Approach
 
-Most of my repositories focus on backend services, integrations, and practical automation projects.
+My approach to backend development follows three principles:
+
+### Reliability
+
+Systems must behave predictably in production.
+
+### Simplicity
+
+Code that engineers can understand.
+
+### Practicality
+
+Engineering decisions should reduce operational complexity.
+
+---
+
+# Highlighted Work
+
+### EvoCore Integration
+
+Automation service designed to send pre-configured messages using the Evolution API.
+
+The system acts as an integration layer that allows backend services to trigger automated communication workflows.
+
+Key capabilities:
+
+• integration with Evolution messaging API  
+• template-based message dispatch  
+• backend automation workflows  
+• scalable API integration architecture  
+
+Technology:
+
+`Python` `REST APIs` `Integration Services`
+
+Repository  
+https://github.com/CaiohAlvino/evocore-integration
+
+
+### Inventory Count Automation
+
+Automation tool designed to streamline inventory counting operations.
+
+The system processes inventory data and automates repetitive counting tasks,
+reducing manual workload and improving operational efficiency.
+
+Key features:
+
+• automated inventory counting workflows  
+• data validation and reconciliation  
+• simplified inventory processing  
+
+Technology:
+
+`Python` `Automation` `Data Processing`
+
+Repository  
+https://github.com/CaiohAlvino/inventory-count-automation
+
+---
+
+# GitHub Activity
 
 <table>
-  <tbody>
-    <tr>
-      <td>
-        <p align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaiohAlvino&theme=tokyonight" />
-        </p>        
-      </td>
-      <td>
-        <p align="center">
-          <img src="https://streak-stats.demolab.com?user=CaiohAlvino&theme=tokyonight&hide_border=true" />
-        </p>
-      </td>
-    </tr>
-  </tbody>
+<tbody>
+<tr>
+<td>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaiohAlvino&theme=tokyonight"/>
+
+</td>
+
+<td>
+
+<img src="https://streak-stats.demolab.com?user=CaiohAlvino&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</tbody>
 </table>
 
-
 ---
 
-## 🎓 Education
+# Education
 
 **Technologist in Systems Analysis and Development**  
-UMFG — Jan/2023 to Jul/2025  
-Focus on backend development, system modeling, and software engineering fundamentals.
+UMFG — 2023 → 2025  
 
-**Postgraduate Studies (In Progress)**
-Software Engineering — Mobile Application Development
+Focus areas:
+
+• backend development  
+• system modeling  
+• software engineering fundamentals  
+
+
+**Postgraduate — Software Engineering**  
+Completed — Feb 2026  
+
+
+**Postgraduate — Mobile Application Development**  
+In Progress — Expected Jul 2026
 
 ---
 
-## 🏅 Certifications & Achievements
+# Achievements
 
-Supervised Internship — Final Project with Maximum Grade
+NASA Space Apps — Global Hackathon Participant  
 
-NASA Space Apps — Global Hackathon Participant
+Supervised Internship — Final Project with Maximum Grade  
+
+Honour for Merit — Brazilian Army  
+
+
+# Certifications
 
 Offensive Security Workshop — Practical Security Training
 
-Honour for Merit — Brazilian Army
-
 ---
 
 <p align="center">
-  <em>Focused on building stable systems that scale with the business.</em>
+Focused on building backend systems that support real operations.
 </p>
