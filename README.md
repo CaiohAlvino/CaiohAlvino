@@ -62,24 +62,6 @@ Development
 
 ---
 
-# Engineering Approach
-
-My approach to backend development follows three principles:
-
-### Reliability
-
-Systems must behave predictably in production.
-
-### Simplicity
-
-Code that engineers can understand.
-
-### Practicality
-
-Engineering decisions should reduce operational complexity.
-
----
-
 # Highlighted Work
 
 ### EvoCore Integration
